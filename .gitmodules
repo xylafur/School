@@ -1,0 +1,39 @@
+[submodule "year3/cosc4315-ProgrammingLanguages"]
+	path = year3/cosc4315-ProgrammingLanguages
+	url = git@github.com:xylafur/cosc4315-ProgrammingLanguages.git
+[submodule "year2/algorithms/assignment-2"]
+	path = year2/algorithms/assignment-2
+	url = git@github.com:xylafur/algo-assignment-2.git
+[submodule "year2/algorithms/assignment-1"]
+	path = year2/algorithms/assignment-1
+	url = git@github.com:xylafur/algorithms-assignment1.git
+[submodule "year1/os/bankers-algorithm"]
+	path = year1/os/bankers-algorithm
+	url = git@github.com:xylafur/Bankers_Algorithm.git
+[submodule "year1/data-structures/homework5"]
+	path = year1/data-structures/homework5
+	url = git@github.com:xylafur/Homework5.git
+[submodule "year1/data-structures/airplane-group-assignment"]
+	path = year1/data-structures/airplane-group-assignment
+	url = git@github.com:xylafur/AirplaneGroupAssignment.git
+[submodule "year1/data-structures/group-assignment-4"]
+	path = year1/data-structures/group-assignment-4
+	url = git@github.com:xylafur/GroupAssignment4.git
+[submodule "year1/data-structures/homework3"]
+	path = year1/data-structures/homework3
+	url = git@github.com:xylafur/hw3-DataStructures.git
+[submodule "year1/data-structures/fast-food-simulator"]
+	path = year1/data-structures/fast-food-simulator
+	url = git@github.com:xylafur/FastFoodSimulator.git
+[submodule "year1/data-structures/infix-to-postfix"]
+	path = year1/data-structures/infix-to-postfix
+	url = git@github.com:xylafur/infixToPostfix.git
+[submodule "year1/data-structures/homework2"]
+	path = year1/data-structures/homework2
+	url = git@github.com:xylafur/Homework2.git
+[submodule "year1/data-structures/poly-matrix"]
+	path = year1/data-structures/poly-matrix
+	url = git@github.com:xylafur/Poly-Matrix.git
+[submodule "year1/intro1/homeworks"]
+	path = year1/intro1/homeworks
+	url = git@github.com:xylafur/FinalHW.git
