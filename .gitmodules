@@ -37,3 +37,6 @@
 [submodule "year1/intro1/homeworks"]
 	path = year1/intro1/homeworks
 	url = git@github.com:xylafur/FinalHW.git
+[submodule "notes"]
+	path = notes
+	url = git@github.com:xylafur/school_notes.git
